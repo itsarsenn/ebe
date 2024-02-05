@@ -1,0 +1,74 @@
+{
+  "PRODUCTS": [
+    {
+      "id": "Андрей",
+      "title": "Андрей",
+      "like": 1111,
+      "dislike": 2222,
+      "color": "black"
+    },
+    {
+      "id": "Леша",
+      "title": "Леша",
+      "like": 1111,
+      "dislike": 2222,
+      "color": "#112233"
+    },
+    {
+      "id": "Арсений",
+      "title": "Арсений",
+      "like": 1111,
+      "dislike": 2222,
+      "color": "#445566"
+    },
+    {
+      "id": "Саша",
+      "title": "Саша",
+      "like": 1111,
+      "dislike": 2222,
+      "color": "#778899"
+    },
+    {
+      "id": "Никита",
+      "title": "Никита",
+      "like": 1111,
+      "dislike": 2222,
+      "color": "#aabbcc"
+    },
+    {
+      "id": "Елисей",
+      "title": "Елисей",
+      "like": 1111,
+      "dislike": 2222,
+      "color": "#ddeeff"
+    },
+    {
+      "id": "Даник",
+      "title": "Даник",
+      "like": 1111,
+      "dislike": 2222,
+      "color": "#112233"
+    },
+    {
+      "id": "Женя",
+      "title": "Женя",
+      "like": 1111,
+      "dislike": 2222,
+      "color": "#445566"
+    },
+    {
+      "id": "Толик",
+      "title": "Толик",
+      "like": 1111,
+      "dislike": 2222,
+      "color": "#778899"
+    },
+    {
+      "id": "Артем",
+      "title": "Артем",
+      "like": 1111,
+      "dislike": 2222,
+      "color": "orange"
+    }
+  ]
+}
